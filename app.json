@@ -1,0 +1,6 @@
+{
+  "name": "faq-chatbot-api",
+  "description": "FAQ Bot",
+  "repository": "https://github.com/endam1234/express-api.git",
+  "keywords": ["api.ai", "dialogflow", "natural language"]
+}
